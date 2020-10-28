@@ -1,2 +1,2 @@
 # MappingDataToComponents
-Created with CodeSandbox
+Learning React (Wednesday)
